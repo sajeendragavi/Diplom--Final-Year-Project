@@ -1,0 +1,4 @@
+basics
+python
+deep learning python
+neural networks
